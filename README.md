@@ -8,6 +8,7 @@
 - Testando as suposições do modelo
 - Interpretação do modelo
 - Predição
+- retirando uma possível influência
 
 ## Dados do Kaggle
 
